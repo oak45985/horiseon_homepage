@@ -22,6 +22,6 @@ Are image "alt"s useful for vector-based, logo/icon type objects?
 
 ### Link
 
-Link goes here.
+https://oak45985.github.io/horiseon_homepage/
 
-# Completed by John Oakley; submitted 6/1/22
+## Completed by John Oakley; submitted 6/1/22
